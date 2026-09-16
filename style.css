@@ -66,6 +66,7 @@ img {
     background-image: url("media/bg.gif");
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 .hero::before {
